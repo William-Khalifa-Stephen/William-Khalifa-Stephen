@@ -1,4 +1,4 @@
-- 👋 Hi, I’m William Khalia
+- 👋 Hi, I’m William Khalifa
 - 👀 I’m interested in Building Real World Application/s 
 - 🌱 I’m currently learning Fullstack Web development
 - 💞️ I’m looking to collaborate on Tech Projects with fellow developers worldwide
